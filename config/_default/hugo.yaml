@@ -3,10 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
-# Website URL
-baseURL: 'https://example.com/'
+# Tên trang web của nhóm (Sẽ hiển thị trên tab trình duyệt và kết quả tìm kiếm)
+title: 'SMART Group'
+# Đường dẫn chính thức của website khi chạy trên GitHub Pages
+baseURL: 'https://ledinhquyen999-art.github.io/SMARTgroup.github.io/'
 
 ############################
 ## LANGUAGE
